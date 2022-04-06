@@ -28,7 +28,7 @@ O problema foi desenvolvido da seguinte maneira:
 * Informado o **N**, o programa inicia a matriz e logo após printa o estado atual da matriz
 * Depois é executado a função PercorrerM(), onde será feita as comparações de acordo com as regras do jogo e será feito um caminho onde cada elemento será substituido por **"-1"** e agregado a soma final
 * Por fim é executado a função Caminho() que faz a transformação da matriz int em string e ao mesmo tempo substitui o "-1" por flags, finalizando com o print da matriz com o caminho percorrido e o print da soma total
-![image](https://user-images.githubusercontent.com/55333375/162023889-6dd36501-317e-4b74-87aa-310f37c90185.png)
+![image](https://user-images.githubusercontent.com/55333375/162034066-bc368463-46e3-4e05-91bb-cde8ffc27a74.png)
 
 
 # Executar
