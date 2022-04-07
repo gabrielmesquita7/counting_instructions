@@ -9,5 +9,10 @@ int main(){
     printf("\n");
     Caminho(m);
     printf("\nSOMA: %d\n", m->soma);
+    printf("\n");
+    ValoresCaminho(m);
+    printf("\n");
+    
+
     return 0;
 }
